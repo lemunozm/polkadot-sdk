@@ -40,4 +40,7 @@
 //! - [`pallet_example_split`]: A simple example of a FRAME pallet demonstrating the ability to
 //!   split sections across multiple files.
 //!
+//! - [`pallet_example_mock_builder`]: A simple pallet demonstrating how to make testing with the
+//! mock-builder utility.
+//!
 //! **Tip**: Use `cargo doc --package <pallet-name> --open` to view each pallet's documentation.
